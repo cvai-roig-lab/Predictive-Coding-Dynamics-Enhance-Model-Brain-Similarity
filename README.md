@@ -4,7 +4,7 @@
 </div>
 </h1>
 
-Code for the paper ["Predictive-Coding-Dynamics-Enhance-Model-Brain-Similarity"](https://arxiv.pdf) presented at ESANN 2025.
+Code for the paper ["Predictive Coding Dynamics Enhance Model-Brain Similarity"](https://arxiv.pdf) presented at ESANN 2025.
 
 ## Overview:
 
