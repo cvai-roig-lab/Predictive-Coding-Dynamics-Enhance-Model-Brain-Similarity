@@ -1,6 +1,6 @@
 <h1> 
 <div class="row">
-  <div class="column"> Predictive Coding-Dynamics Enhance Model-Brain Similarity </div>
+  <div class="column"> Predictive Coding Dynamics Enhance Model-Brain Similarity </div>
 </div>
 </h1>
 
