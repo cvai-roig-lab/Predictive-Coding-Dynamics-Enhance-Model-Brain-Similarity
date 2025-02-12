@@ -14,7 +14,10 @@ Code for the paper ["Predictive-Coding-Dynamics-Enhance-Model-Brain-Similarity"]
 
 ## Cite
 ```
-@INPROCEEDINGS{10385662,
-  author={}
+@INPROCEEDINGS{Guo2025_PredCoding,
+  author={Manshan Guo, Michael Samjatin, Bhavin Choksi, Sari Saba-Sadiya, Radoslaw Cichy, and Gemma Roig},
+  booktitle={The 33th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN)}, 
+  title={Predictive Coding Dynamics Enhance Model-Brain Similarity}, 
+  year={2025}
 }
 ```
